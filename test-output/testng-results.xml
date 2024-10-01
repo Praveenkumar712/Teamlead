@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-25T10:46:17 IST" name="Suite" finished-at="2024-09-25T10:46:34 IST" duration-ms="16332">
+    <groups>
+    </groups>
+    <test started-at="2024-09-25T10:46:17 IST" name="Test" finished-at="2024-09-25T10:46:34 IST" duration-ms="16332">
+      <class name="dataprovider.Adactin">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.Adactin@9d5509a]" started-at="2024-09-25T10:46:18 IST" name="openApplication" finished-at="2024-09-25T10:46:32 IST" duration-ms="14461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://adactinhotelapp.com/index.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="loginFunctionality(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.Adactin@9d5509a]" started-at="2024-09-25T10:46:32 IST" name="loginFunctionality" data-provider="data" finished-at="2024-09-25T10:46:32 IST" duration-ms="400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[saketh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123644]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionality -->
+        <test-method signature="loginFunctionality(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.Adactin@9d5509a]" started-at="2024-09-25T10:46:32 IST" name="loginFunctionality" data-provider="data" finished-at="2024-09-25T10:46:33 IST" duration-ms="392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kijicc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yallanki]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionality -->
+        <test-method signature="loginFunctionality(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.Adactin@9d5509a]" started-at="2024-09-25T10:46:33 IST" name="loginFunctionality" data-provider="data" finished-at="2024-09-25T10:46:33 IST" duration-ms="427" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15464]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[u16312623]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionality -->
+        <test-method signature="loginFunctionality(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.Adactin@9d5509a]" started-at="2024-09-25T10:46:33 IST" name="loginFunctionality" data-provider="data" finished-at="2024-09-25T10:46:34 IST" duration-ms="571" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Saketh1008]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Saketh1008@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionality -->
+      </class> <!-- dataprovider.Adactin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
